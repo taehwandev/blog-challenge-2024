@@ -179,7 +179,7 @@ footer-hover-col: "#0085A1"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
 
-#google_analytics: "G-68YWRXH9JH"
+google_analytics: "G-68YWRXH9JH"
 
 ####################
 # --- Comments --- #
